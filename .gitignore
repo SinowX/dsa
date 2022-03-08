@@ -1,0 +1,7 @@
+/.ccls
+.ccls-cache
+/.idea
+/build
+/compile_commands.json
+/output
+
